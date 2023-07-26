@@ -46,11 +46,11 @@ Here are previews of two images from the HexColors project:
 
 1. Image 1 - The initial state of the page, with the "Click Here" button:
 
-![Image 1](/assets/screenshot1.png)
+![Image 1](/assets/screenshotNew1.jpg)
 
 2. Image 2 - After clicking the "Click Here" button and generating a random hex color:
 
-![Image 2](/assets/screenshot2.png)
+![Image 2](/assets/screenshotNew2.jpg)
 
 ---
 
